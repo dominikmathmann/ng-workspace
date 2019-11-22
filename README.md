@@ -9,3 +9,6 @@ Angular Workspace Demo
 - - Lazy
 
 ![Demo](/overview.png)
+
+Live:
+https://GEDOPLAN.github.io/ng-workspace/docs/overview.html
