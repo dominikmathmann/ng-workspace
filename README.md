@@ -11,4 +11,5 @@ Angular Workspace Demo
 ![Demo](/overview.png)
 
 Live:
-https://GEDOPLAN.github.io/ng-workspace/docs/overview.html
+
+# https://gedoplan.github.io/ng-workspace/
